@@ -1,0 +1,8 @@
+{
+    "prefix" : "+",
+    "token" :"",
+    "ownerID" : "",
+    "defaultjoinmessage": "{user} vient de rejoindre. Il a été invité par **{inviter:name}** qui a désormais **{invite} invitations**",
+    "defaultleavemessage": "{user} vient de quitter. Il avais été invité par **{inviter:name}** qui a désormais **{invite} invitations** "
+
+}
